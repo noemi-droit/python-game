@@ -11,13 +11,10 @@ def printBoard(board):
     print(board[3] + "|" + board[4] + "|" + board[5])
     print("--------")
     print(board[6] + "|" + board[7] + "|" + board[8])
+# take player input
+def playerInput(board):
+    
 
-
-
-
-
-
-# take player inputxx
 # check for win or tie
 # switch the player
-# check  for win or tie again
+# check for win or tie again
